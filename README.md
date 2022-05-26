@@ -1,4 +1,4 @@
-# vue_shop
+# web1.0
 
 > A Vue.js project
 
